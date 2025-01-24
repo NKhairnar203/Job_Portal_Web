@@ -8,10 +8,9 @@
 - 🔐 **User Authentication** – Secure login/signup for job seekers & recruiters  
 - 📄 **Resume Upload & Management** – Candidates can upload and update resumes  
 - 💼 **Job Posting System** – Recruiters can post, update, and manage job listings  
-- 🔔 **Real-time Notifications** – Alerts for new job postings & application updates  
 
 ## 🛠️ Tech Stack  
-- **Frontend:** React.js, Tailwind CSS  
+- **Frontend:** React.js, Tailwind CSS, Shadcn/UI
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
 - **Authentication:** JWT (JSON Web Token) 
